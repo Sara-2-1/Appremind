@@ -24,12 +24,20 @@ The Foodie App is a thoughtfully designed application to help you manage meal ti
 
 ## Screenshots
 
+### Welcome Screen
+<img src="https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f" width="300">
 
-![Welcome Screen]  <img src="https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f" width="300">
-![Remind Me] <img src="https://github.com/user-attachments/assets/754aeadd-fea5-412b-8fc9-c1d518656338" width="300">
-![Add Food] <img src="https://github.com/user-attachments/assets/d39c0ed5-0f35-422a-aedd-d084816328af" width="300">
-![Meal Countdown] <img src="https://github.com/user-attachments/assets/c02430d5-4b52-497d-b51e-25cc1b1f24e8" width="300">
-![Food Expiry Info] <img src="https://github.com/user-attachments/assets/a8307d54-2bfb-4664-b0eb-b11094711991" width="300">
+### Remind Me
+ <img src="https://github.com/user-attachments/assets/754aeadd-fea5-412b-8fc9-c1d518656338" width="300">
+
+ ###  Add Food
+<img src="https://github.com/user-attachments/assets/d39c0ed5-0f35-422a-aedd-d084816328af" width="300">
+
+ ###  Meal Countdown
+<img src="https://github.com/user-attachments/assets/c02430d5-4b52-497d-b51e-25cc1b1f24e8" width="300">
+
+ ### Food Expiry Info 
+<img src="https://github.com/user-attachments/assets/a8307d54-2bfb-4664-b0eb-b11094711991" width="300">
 
 
 ### Prerequisites
