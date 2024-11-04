@@ -11,6 +11,8 @@ The Foodie App is a thoughtfully designed application to help you manage meal ti
 ## Design and Development
 
 - **Concept and Design**: The idea for the Foodie App was conceived and designed using Sketch, focusing on user experience and simplicity.
+
+
 - **Development**: The app was programmed using Xcode, leveraging SwiftUI for a seamless iOS experience.
 
 ## App Flow
@@ -21,23 +23,26 @@ The Foodie App is a thoughtfully designed application to help you manage meal ti
 4. **Meal Countdown**: View countdowns to upcoming meals and mark them as completed.
 5. **Food Expiry Info**: Access expiry information and receive timely alerts.
 
+<img width="400" alt="Screenshot 1446-04-05 at 4 52 43 PM" src="https://github.com/user-attachments/assets/1eb09097-f64d-4d66-aa77-15cee0f9de8f">
+
+
 
 ## Screenshots
 
 ### Welcome Screen
-<img src="https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f" width="300">
+<img src="https://github.com/user-attachments/assets/af2f6b79-2b66-4934-a33b-ad44b06e147f" width="250">
 
 ### Remind Me
- <img src="https://github.com/user-attachments/assets/754aeadd-fea5-412b-8fc9-c1d518656338" width="300">
+ <img src="https://github.com/user-attachments/assets/754aeadd-fea5-412b-8fc9-c1d518656338" width="250">
 
  ###  Add Food
-<img src="https://github.com/user-attachments/assets/d39c0ed5-0f35-422a-aedd-d084816328af" width="300">
+<img src="https://github.com/user-attachments/assets/d39c0ed5-0f35-422a-aedd-d084816328af" width="250">
 
  ###  Meal Countdown
-<img src="https://github.com/user-attachments/assets/c02430d5-4b52-497d-b51e-25cc1b1f24e8" width="300">
+<img src="https://github.com/user-attachments/assets/c02430d5-4b52-497d-b51e-25cc1b1f24e8" width="250">
 
  ### Food Expiry Info 
-<img src="https://github.com/user-attachments/assets/a8307d54-2bfb-4664-b0eb-b11094711991" width="300">
+<img src="https://github.com/user-attachments/assets/a8307d54-2bfb-4664-b0eb-b11094711991" width="250">
 
 
 ### Prerequisites
